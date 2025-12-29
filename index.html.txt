@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University Of Engineering And Technology Mardan | Home</title>
+</head>
+
+<body style="background-color:#FFF0F5; font-family:Verdana; margin:20px;">
+
+<center>
+    <h1 style="color:#C0392B;">University Of Engineering And Technology Mardan</h1>
+    <h3 style="color:#6C3483;">Learning Today, Leading Tomorrow</h3>
+
+    <p>
+        <a href="index.html" style="color:#1F618D;">Home</a> |
+        <a href="about.html" style="color:#117864;">About</a> |
+        <a href="courses.html" style="color:#AF601A;">Courses</a> |
+        <a href="contact.html" style="color:#512E5F;">Contact</a>
+    </p>
+</center>
+
+<hr>
+
+<h2 style="color:#B03A2E;">Welcome to University Of Engineering And Technology Mardan</h2>
+
+<p style="color:#2C3E50; text-align:justify;">
+UET Mardan is a modern educational institution committed to delivering quality education and
+building strong academic foundations for students. We believe that education plays a vital role in shaping
+the future of individuals and society as a whole. Our academy focuses on academic excellence, personal
+growth, and skill development. We provide an inclusive and supportive environment where students are
+encouraged to explore their interests, enhance their abilities, and achieve their goals with confidence.
+</p>
+
+<p style="color:#2C3E50; text-align:justify;">
+At UET Mardan, learning goes beyond textbooks. We emphasize critical thinking, creativity, and
+practical knowledge to prepare students for real-world challenges. Our experienced instructors use
+innovative teaching techniques to ensure that learning remains engaging and meaningful. We aim to inspire
+students to become lifelong learners who contribute positively to society.
+</p>
+
+<hr>
+
+<center>
+<p style="color:#7B241C;">© 2025 UET Mardan</p>
+</center>
+
+</body>
+</html>

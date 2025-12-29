@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>University Of Engineering And Technology Mardan | About</title>
+</head>
+
+<body style="background-color:#E8F8F5; font-family:Arial; margin:20px;">
+
+<center>
+    <h1 style="color:#117864;">About Our Institute</h1>
+
+    <p>
+        <a href="index.html" style="color:#1F618D;">Home</a> |
+        <a href="about.html" style="color:#117864;">About</a> |
+        <a href="courses.html" style="color:#AF601A;">Courses</a> |
+        <a href="contact.html" style="color:#512E5F;">Contact</a>
+    </p>
+</center>
+
+<hr>
+
+<p style="color:#154360; text-align:justify;">
+UET Mardan was established with the vision of creating a learning platform that empowers students
+with knowledge, skills, and confidence. Our institution believes in nurturing talent and promoting academic
+excellence through structured learning programs and ethical values. We aim to develop responsible citizens
+who are prepared to face global challenges with integrity and competence.
+</p>
+
+<p style="color:#154360; text-align:justify;">
+Our institute fosters a culture of respect, innovation, and continuous improvement. We provide equal learning
+opportunities to students from diverse backgrounds and encourage collaboration and open communication.
+Through quality education and mentorship, Bright Future Academy strives to transform lives and shape a
+better future for generations to come.
+</p>
+
+<hr>
+
+<center>
+<p style="color:#0B5345;">Empowering Education for Everyone</p>
+</center>
+
+</body>
+</html>
